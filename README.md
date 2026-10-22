@@ -7,7 +7,8 @@ The server responds by sending the required files, such as HTML for the page str
 Finally, the browser reads these files, combines the structure and styles, executes the JavaScript, and renders the webpage on the screen so the user can interact with it.
 Setup Screenshots
 VS Code with the project open
-![Uploading Screenshot 2026-10-19 104603.png…]()
+<img width="2560" height="1600" alt="Screenshot 2026-10-19 104603" src="https://github.com/user-attachments/assets/09c04328-fd3f-4629-bb91-729f02d63044" />
+
 
 Node.js version
 <img width="2560" height="1600" alt="Screenshot 2026-10-19 104930" src="https://github.com/user-attachments/assets/b279713a-c66d-4f81-9a0c-e54c688ee58c" />
